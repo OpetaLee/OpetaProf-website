@@ -62,7 +62,7 @@
 </header>
 
 <div class="profile-container" onclick="toggleBio('bio1')">
-    <img class="profile-picture" src="alabat.jpg" alt="Profile 1">
+    <img class="profile-picture" src"alabat.jpg" alt="Profile 1">
     <h3>ALABAT</h3>
     <div id="bio1" class="bio">
         <p>Name: Alabat, Cindy I.</p>
