@@ -199,7 +199,7 @@
 </div>
 
 <div class="profile-container" onclick="toggleBio('bio12')">
-    <img class="profile-picture" src="lirio (1).jpg" alt="Profile 12">
+    <img class="profile-picture" src="lirio.jpg" alt="Profile 12">
     <h3>LIRIO</h3>
     <div id="bio12" class="bio">
         <p>Name: Lirio, Avril Carlos M.</p>
@@ -223,7 +223,7 @@
 </div>
 
 <div class="profile-container" onclick="toggleBio('bio14')">
-    <img class="profile-picture" src="malimutin.jpg.png" alt="Profile 14">
+    <img class="profile-picture" src="malimutin.png" alt="Profile 14">
     <h3>MALIMUTIN</h3>
     <div id="bio14" class="bio">
         <p>Name: Malimutin, Avery Jr. R.</p>
