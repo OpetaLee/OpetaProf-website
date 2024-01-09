@@ -223,7 +223,7 @@
 </div>
 
 <div class="profile-container" onclick="toggleBio('bio14')">
-    <img class="profile-picture" src="malimutin.png" alt="Profile 14">
+    <img class="profile-picture" src="malimutin.jpg" alt="Profile 14">
     <h3>MALIMUTIN</h3>
     <div id="bio14" class="bio">
         <p>Name: Malimutin, Avery Jr. R.</p>
